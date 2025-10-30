@@ -1,0 +1,2 @@
+# Planning
+Organize SCSS files into BEM-like structure
